@@ -1,0 +1,15 @@
+{
+  "name": "first-node-app",
+  "version": "1.0.0",
+  "main": "4-names.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
